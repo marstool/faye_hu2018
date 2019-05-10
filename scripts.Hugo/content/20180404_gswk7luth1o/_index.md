@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180404_gswk7luth1o.mp4" >}}
 
+     https://www.youtube.com/watch?v=gSWK7lUTh1o 
      论中国证书的重要性(粤语） 
      
-     https://www.youtube.com/watch?v=gSWK7lUTh1o 

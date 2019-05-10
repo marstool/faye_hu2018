@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180906_vvc7c_tgkfw.mp4" >}}
 
+     https://www.youtube.com/watch?v=VVC7C_tgKFw 
      谈谈“谁”最“好色”！该话题比较敏感，并纯属个人见解。现实情况如有雷同，实属巧合。请原谅！🤪🤪 n各位男士请注意，些话题不是泛指所有男士，只是部分（或者只是少部分），如有得罪，请多多包涵与见谅！😝 
      笑谈中美男士的“好色”差异（国语） 
-     https://www.youtube.com/watch?v=VVC7C_tgKFw 

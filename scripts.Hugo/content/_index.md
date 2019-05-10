@@ -6,21 +6,6 @@ weight = 20
 
 
 
-* [   fayehu2019.jjj123.com 广州人在美国 ]({{< relref "zz2019" >}})
-
-
-* [   fayehu2018.jjj123.com 广州人在美国 ]({{< relref "zz2018" >}})
-
-
-* [   fayehu2017.jjj123.com 广州人在美国 ]({{< relref "zz2017" >}})
-
-
-* [   fayehu2016.jjj123.com 广州人在美国 ]({{< relref "zz2016" >}})
-
-
-* [   fayehu2014.jjj123.com 广州人在美国 ]({{< relref "zz2014" >}})
-
-
 * [ 20181116  中国学历证书的重要性+工作的问题（国语）  ]({{< relref "20181116_loo3uyu9bzo" >}})
 
 

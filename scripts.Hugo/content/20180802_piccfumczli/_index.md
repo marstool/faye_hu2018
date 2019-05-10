@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20180802_piccfumczli.mp4" >}}
 
+     分享学习英文的体验（一) 粤语 
      如何学习英文？ 我对英文的看法。 
      https://www.youtube.com/watch?v=PICCFumcZlI 
-     分享学习英文的体验（一) 粤语 
