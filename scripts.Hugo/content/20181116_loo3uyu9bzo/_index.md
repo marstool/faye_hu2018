@@ -4,10 +4,10 @@ description = ""
 weight = 20
 +++
 
-{{< mymp3 mp3="20181116_loo3uyu9bzo.mp4.wav.mp3" >}}
+{{< mymp3 mp3="20181116_loo3uyu9bzo.mp3" >}}
 
 {{< mymp4 mp4="20181116_loo3uyu9bzo.mp4" >}}
 
-     https://www.youtube.com/watch?v=LoO3UyU9bZo 
      首先再次隆重介绍我的猪小姐.........只是短短的一个月时间，她已经从“小姐”变成“大姐”了！ n然后分享一下我在学历证明上遇到过的问题。 n最后谈谈初来步到的朋友找什么工作比较容易。当然，这个世界没有什么工作是容易的🤪 
      中国学历证书的重要性+工作的问题（国语） 
+     https://www.youtube.com/watch?v=LoO3UyU9bZo 
